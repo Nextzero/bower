@@ -1,7 +1,8 @@
 {
-  "name": "nextzero-bower-libs",
+  "name": "nextzero222",
   "description": "bower被依赖的库",
   "main": "test.js",
+  "version": "1.2.1",
   "keywords": [
     "nextzero",
     "bower",
