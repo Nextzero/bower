@@ -1,0 +1,28 @@
+{
+  "name": "nextzero-bower-libs",
+  "description": "bower被依赖的库",
+  "main": "test.js",
+  "keywords": [
+    "nextzero",
+    "bower",
+    "demo"
+  ],
+  "authors": [
+    "nextzero"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap":"latest",
+    "jquery":"latest",
+    "angular":"latest"
+  }
+}
